@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<!--
+  Sitemap for: https://ahmedabuzeid1.github.io/
+  Generated: 2025‑07‑11
+  NOTE: لا تضع في هذا الملف إلا الصفحات التي تقع فعليًا تحت هذا النطاق
+        (GitHub Pages). إذا أردت فهرسة روابط على نطاق مختلف مثل azwad‑jeddah.com
+        فأنشئ خريطة منفصلة لذلك النطاق أو اترك crawlers تكتشفها تلقائيًا.
+-->
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- الصفحة الرئيسية -->
   <url>
     <loc>https://ahmedabuzeid1.github.io/</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-11</lastmod> <!-- تاريخ آخر تعديل فعلي للصفحة -->
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- مثال لصفحة إضافية على نفس الدومين لو أضفتها مستقبلاً -->
+  <!--
+  <url>
+    <loc>https://ahmedabuzeid1.github.io/about.html</loc>
+    <lastmod>2025-07-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  -->
+
 </urlset>
